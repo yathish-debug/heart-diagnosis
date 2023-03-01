@@ -2,3 +2,6 @@ requests
 streamlit
 polars
 sklearn
+pandas
+numpy
+pickle
