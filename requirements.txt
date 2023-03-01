@@ -1,6 +1,6 @@
 requests
 streamlit
 polars
-sklearn
+scikit-learn
 pandas
 numpy
