@@ -4,4 +4,3 @@ polars
 sklearn
 pandas
 numpy
-pickle
