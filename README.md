@@ -1,3 +1,15 @@
+---
+title: Heartdiseaseprediction
+emoji: 🐢
+colorFrom: indigo
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+---
+
+
 # Heart Diagnosis
 This app will take inputs (genric)
  and uses Logistic Regression to analyse the condition of heart and gives suggestions based on report
