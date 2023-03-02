@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://yathishdotexe:$HF_TOKEN@huggingface.co/spaces/yathishdotexe/heartdiseaseprediction main
+        run: git push https://yathishdotexe:$HF_TOKEN@huggingface.co/spaces/yathishdotexe/heartdiseaseprediction main
